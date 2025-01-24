@@ -4,6 +4,7 @@ export default function WebButtons({ builderButtons, onClick }) {
         <div className="flex flex-col justify-start bg-slate-700 max-w-20 h-full">
             {builderButtons.map((button, index) => (
                 <button 
+                    object={button}
                     id={button.shape}
                     key={"builderButton" + index} 
                     onClick={onClick} value={button.shape} 

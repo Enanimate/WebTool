@@ -1,3 +1,5 @@
+WebTool is a personal project to learn and practice with NextJS, React, and Tailwind. This tool allows a user to create a rudimentary website using stylized HTML divs as the building blocks to visually and interactively lay out their envisioned website UI.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
